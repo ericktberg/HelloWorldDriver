@@ -1,0 +1,6 @@
+
+*.tlog
+
+x64/Debug/
+
+HellowWorldDriver/x64/Debug/
